@@ -1,0 +1,7 @@
+D:\SA Group\C#\CSharp3\CSharp3\bin\Debug\CSharp3.exe.config
+D:\SA Group\C#\CSharp3\CSharp3\bin\Debug\CSharp3.exe
+D:\SA Group\C#\CSharp3\CSharp3\bin\Debug\CSharp3.pdb
+D:\SA Group\C#\CSharp3\CSharp3\obj\Debug\CSharp3.csprojAssemblyReference.cache
+D:\SA Group\C#\CSharp3\CSharp3\obj\Debug\CSharp3.csproj.CoreCompileInputs.cache
+D:\SA Group\C#\CSharp3\CSharp3\obj\Debug\CSharp3.exe
+D:\SA Group\C#\CSharp3\CSharp3\obj\Debug\CSharp3.pdb
